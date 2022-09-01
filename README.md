@@ -1,4 +1,4 @@
-# Tailwind-Demo
+# Tez UI
 Pre-built components are desinged with SCSS & Tailwind structure thus minimum changes are required.
 
 - Dark Mode Enabled
